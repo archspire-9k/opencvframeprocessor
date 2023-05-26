@@ -5,6 +5,7 @@
  * @format
  */
 
+import "react-native-reanimated"
 import React from 'react';
 import type {PropsWithChildren} from 'react';
 import {
